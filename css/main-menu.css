@@ -1,0 +1,50 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container{
+    max-width: 1000px;
+    width: 100%;
+    padding: 0 20px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.menu-section{
+    background: #e88583;
+}
+.menu-logo{
+    padding: 15px 0px 15px 0px;
+    display: inline-block;
+}
+ul{
+  list-style: none;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.menu-list{
+    display: inline-block;
+    margin-left: 321px;
+}
+.menu-list ul{
+text-align: right;
+
+}
+.menu-list ul li{
+    display: inline-block;
+    margin: 0 20px;
+}
+.menu-list ul li a:hover{
+ text-decoration: underline;
+ transform: .5s;
+ color: rgb(244, 244, 9);
+ 
+}
+.icon-pp{
+    display: flex;
+}
+.nav-icon ul li{
+    display: inline-block;
+    margin: 22px 10px;
+}

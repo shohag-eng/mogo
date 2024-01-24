@@ -1,0 +1,203 @@
+/*------------------service-----------*/
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container{
+    max-width: 1000px;
+    width: 100%;
+    padding: 0 20px;
+    margin: 0 auto;
+    box-sizing: border-box;
+   
+}
+ul{
+    list-style: none;
+}
+.font-p{
+    font-style: italic;
+    padding-top: 60px;
+}
+.service-content{
+    text-align: center;
+}
+
+.service-stic{
+    width: 40px;
+    height: 2px;
+    background-color: red;
+    display: inline-block;
+}
+.service-bold{
+    padding-top: 10px;
+}
+
+.am-service ul{
+    display: flex;
+}
+.am-img{
+    width: 35px;
+    color-scheme: aqua;
+}
+.service-line{
+    width: 100%;
+    height: 1px;
+    background-color: rgb(182, 185, 185);
+    margin: 46px 0;
+}
+.am-serivce-buttom{
+    margin: 51px 0;
+}
+.am-service{
+    margin: 42px 0;
+
+}
+/*-------------uniq-----------------*/
+
+.uniq-section{
+    background-image: url(../img/uniq-design.png);
+    width: 100%;
+    height: 531px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 74px;
+   
+}
+ul{
+    list-style: none;
+}
+.font-p{
+    font-style: italic;
+    padding-top: 60px;
+}
+.uniq-content{
+    text-align: center;
+}
+
+.uniq-stic{
+    width: 40px;
+    height: 2px;
+    background-color: red;
+    display: inline-block;
+}
+.uniq-bold{
+    padding-top: 10px;
+}
+.uniq-tap{
+    position: relative;
+    
+    
+}
+.uniq-mobile{
+    position: absolute;
+    margin: -238px 222px;
+}
+.tap{
+    width: 291px;
+   
+
+}
+.mobile{
+    width: 167px;
+    
+}
+.uniq-img-parent{
+    position:absolute;
+    margin: 34px 329px;
+}
+/*--------------------whate we do-----------*/
+ul{
+    list-style: none;
+}
+.what-titli{
+    font-style: italic;
+    padding-top: 60px;
+}
+.what-content{
+    text-align: center;
+}
+
+.what-stic{
+    width: 40px;
+    height: 2px;
+    background-color: red;
+    display: inline-block;
+   
+}
+.what-p{
+    margin: 17px 197px;
+    color: #a6a7a9;
+}
+.do-parent{
+display: flex;
+margin: 74px 0px;
+}
+.do-img{
+
+}
+.do-content{
+    padding: 11px 0 0 57px;
+}
+.what-img{
+    width: 409px;
+}
+/*-------------jon do--------*/
+.jon-section{
+    background: rgb(221, 219, 219);
+    width: 100%;
+    height: 165px;
+}
+.jon-parent{
+    display: flex;
+}
+.les{
+    width: 12px;
+    padding-top: 68px;
+}
+.lesthan2{
+  
+}
+.les2{
+    text-align: center;
+    padding: 31px 29px;
+    width: 104px;
+}
+.lesthan3{
+    margin: 68px 9px ;
+    padding-right:32px;
+}
+.les4{
+    width: 12px;
+    padding-top: 68px; 
+    padding-right: 35px; 
+}
+/*-------------who we are------------*/
+.team-parent{
+    display: flex;
+    margin: 40px 108px;
+}
+.img1{
+    width: 234px;
+
+}
+.img-1{
+    margin: 0 19px;
+    width: 234px;
+}
+.img{
+    width: 100%;
+    display: block;
+    margin:auto
+}
+.team-text{
+    margin: 0 62px;
+}
+.team-p{
+    font-size: 11px;
+    color: #a6a7a9;
+}
+.all-iogo-img{
+    width: 851px;
+    margin: 50px 64px;
+}
